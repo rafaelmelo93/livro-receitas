@@ -3,4 +3,5 @@
 Bem vindo a receitas com Git
 
 - Strogonoff
+- Pavê
 
